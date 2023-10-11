@@ -15,4 +15,4 @@ Modulo arithmetics
 
 3. -13 = 2 mod 5
 
-4. $p(x) = x^3 - x^2 + 4x - 12$. Calculate $p(2) = 0$, this 2 is a root. The degree of $p$ is 3.
+4. $p(x) = x^3 - x^2 + 4x - 12$. Calculate $p(2) = 0$, thus 2 is a root. The degree of $p$ is 3.
